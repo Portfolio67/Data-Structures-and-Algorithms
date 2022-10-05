@@ -35,7 +35,7 @@ vectorSorting program with title search, quicksort, selection, partition algorit
 | Selection Sort | 21.5915 sec | 21.7899 sec |
 | Quick Sort with partition | 0.064843 sec| 0.054884 sec|
  <img src="" alt="" />
- <a href="https://github.com/Portfolio67/Data-Structures-and-Algorithms/blob/e621387f26f5d8a2f8006036cbae61f910479d1c/img/Screen%20Shot%202022-10-05%20at%203.12.15%20PM.png"></a></p>
+ <a href="https://raw.githubusercontent.com/Portfolio67/Data-Structures-and-Algorithms/main/img/Screen%20Shot%202022-10-05%20at%203.12.15%20PM.png"></a></p>
 
 <h2 id="vectors"><strong>Vectors</strong></h2>
 
